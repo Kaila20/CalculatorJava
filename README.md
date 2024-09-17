@@ -6,6 +6,7 @@
 
 
 #First number choosen: 10
+
 #Second number choosen: 36
 #![image](https://github.com/user-attachments/assets/e0d2cf1b-f73b-4ed4-ac54-54f4ae81e89d)
 
